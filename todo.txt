@@ -1,5 +1,10 @@
-1 fix arm down too early
+1 Finish subStates
+  a) Re write select state
+  b) enable sensor checking + make function to tell when gone
+  c) add count down calculations and function, also a "robot is back" funct
 
+2)Remove all unused functions
 
+3) Get next gen working
 
-
+4) Get distance sensor working 
